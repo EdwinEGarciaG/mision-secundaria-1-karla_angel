@@ -16,6 +16,18 @@
 5. [Entegrables](#entre)
    1.   [Reporte]()
    2. [Código]()
+   
+### JavaFX
+
+
+
+### Java Swing
+
+
+
+  
+   
+
 ****
 ### Calculadora cientifica en JavaFX
 A continuacion se presenta el proceso del desarrollo de la calculadora cientifica con JavaFX
