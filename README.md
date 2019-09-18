@@ -12,3 +12,5 @@ Desarrollo lo siguiente:
 Entregables:
   * Reporte en formato markdown (Blog) con imagenes, el cual se deberá subir al repositorio.
   * Código fuente de la calculadora científica.
+
+[Haz click aqui para visualizar el reporte en formato markdown](TUTORIAL.md)
