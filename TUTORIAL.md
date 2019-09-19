@@ -24,9 +24,9 @@
  
  Características principales de JavaFX:
  
-    * Permite a los desarrolladores integrar gráficos vectoriales, animación, sonido y activos web de vídeo en una aplicación interactiva, completa y atractiva
-    * Amplía la tecnología Java permitiendo el uso de cualquier biblioteca de Java en una aplicación JavaFX
-    * Permite mantener un eficaz flujo de trabajo entre diseñador y desarrollador en el que los diseñadores pueden trabajar en las herramientas que deseen mientras colaboran con los desarrolladores
+   *Permite a los desarrolladores integrar gráficos vectoriales, animación, sonido y activos web de vídeo en una aplicación interactiva, completa y atractiva
+   *Amplía la tecnología Java permitiendo el uso de cualquier biblioteca de Java en una aplicación JavaFX
+   *Permite mantener un eficaz flujo de trabajo entre diseñador y desarrollador en el que los diseñadores pueden trabajar en las herramientas que deseen mientras colaboran con los desarrolladores
 
 
 #### Funcionamiento
@@ -36,7 +36,11 @@ Pasos:
 Con JavaFX puedes construir muchos tipos de aplicaciones. Por lo general, son las aplicaciones de red y estas que se implementan a
 través de múltiples plataformas y mostrar información en una interfazde usuario moderna de alto rendimiento que cuenta con audio, vídeo, gráficos y animación.
 
-Estructura de 
+Estructura de una aplicacion JavaFX:
+Stage (Escenario): es elcontenedor de nivel superior y contiene la escena.
+Scene (Escena): Contiene los nodos(controles) que conforman la parte grafica de la escena.
+Nodos(Controles): son los componentes que permiten al usuario interactuar con la aplicación.
+
 
 #### Sintaxis 
 
@@ -50,8 +54,10 @@ Pasos:
 
 #### Sintaxis 
 
-  
-   
+### Diferencias
+*JavaFX soporta propiedades:
+*JavaFX puede ser personalizado con CSS: puedes controlar el formato a través de CSS. LOs aspectos de apariencia pueden ser configurada mediante reglas de estilo y cambiar la apariencia por medio de la llamada de un método.
+*Las animaciones son mucho mas sencillas en JavaFX: 
 
 ****
 ### Calculadora cientifica en JavaFX
