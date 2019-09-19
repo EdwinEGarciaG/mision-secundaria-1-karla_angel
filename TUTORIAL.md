@@ -17,13 +17,38 @@
    1.   [Reporte]()
    2. [Código]()
    
-### JavaFX
- HOla
+****   
+### JavaFX 
+ JavaFX es una tecnología de software que, combinada con Java, permite crear y desplegar aplicaciones con un aspecto vanguardista y contenidos avanzados, audio y vídeo. Es decir es un conjunto de gráficos y paquetes de comunicación que permite a los desarrolladores para diseñar, crear, probar, depurar y desplegar aplicaciones cliente enriquecidas que operan constantemente a través de diversas plataformas.
+ Contiene un ambiente de ejecución de plataforma cruzada(Java  SE,  Java  EE,  ME) y  una  plataforma  específica.
+ 
+ Características principales de JavaFX:
+ 
+    * Permite a los desarrolladores integrar gráficos vectoriales, animación, sonido y activos web de vídeo en una aplicación interactiva, completa y atractiva
+    * Amplía la tecnología Java permitiendo el uso de cualquier biblioteca de Java en una aplicación JavaFX
+    * Permite mantener un eficaz flujo de trabajo entre diseñador y desarrollador en el que los diseñadores pueden trabajar en las herramientas que deseen mientras colaboran con los desarrolladores
 
 
+#### Funcionamiento
+Pasos:
+
+#### Contexto
+Con JavaFX puedes construir muchos tipos de aplicaciones. Por lo general, son las aplicaciones de red y estas que se implementan a
+través de múltiples plataformas y mostrar información en una interfazde usuario moderna de alto rendimiento que cuenta con audio, vídeo, gráficos y animación.
+
+Estructura de 
+
+#### Sintaxis 
+
+**** 
 ### Java Swing
 
+#### Funcionamiento
+Pasos:
 
+#### Contexto
+
+#### Sintaxis 
 
   
    
