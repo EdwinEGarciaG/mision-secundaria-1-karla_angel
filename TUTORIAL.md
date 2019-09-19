@@ -24,9 +24,11 @@
  
  Características principales de JavaFX:
  
-   *Permite a los desarrolladores integrar gráficos vectoriales, animación, sonido y activos web de vídeo en una aplicación interactiva, completa y atractiva
-   *Amplía la tecnología Java permitiendo el uso de cualquier biblioteca de Java en una aplicación JavaFX
-   *Permite mantener un eficaz flujo de trabajo entre diseñador y desarrollador en el que los diseñadores pueden trabajar en las herramientas que deseen mientras colaboran con los desarrolladores
+   * Permite a los desarrolladores integrar gráficos vectoriales, animación, sonido y activos web de vídeo en una aplicación interactiva, completa y atractiva
+  
+   * Amplía la tecnología Java permitiendo el uso de cualquier biblioteca de Java en una aplicación JavaFX
+  
+   * Permite mantener un eficaz flujo de trabajo entre diseñador y desarrollador en el que los diseñadores pueden trabajar en las herramientas que deseen mientras colaboran con los desarrolladores
 
 
 #### Funcionamiento
@@ -54,11 +56,15 @@ Pasos:
 
 #### Sintaxis 
 
-### Diferencias
-*JavaFX soporta propiedades:
-*JavaFX puede ser personalizado con CSS: puedes controlar el formato a través de CSS. LOs aspectos de apariencia pueden ser configurada mediante reglas de estilo y cambiar la apariencia por medio de la llamada de un método.
-*Las animaciones son mucho mas sencillas en JavaFX: 
-
+### Diferencias entre JavaFX y JavaSwing
+Algunas de las diferencias más importantes son:
+* JavaFX soporta propiedades a través de sus clases, por lo tanto JavaFX proporciona manejo de eventos que son inauditos en Swing.
+* JavaFX pueden ser personalizados con CSS, puedes controlar el formato a través de CSS. Los aspectos de apariencia pueden ser configurados mediante reglas de estilo y cambiar la apariencia por medio de la llamada de un método.
+* Las animaciones son mucho mas sencillas en JavaFX, debido a que cuentan con un soporte incorporado y para animaciones sofisticadas y JavaSwing no provee ningún soporte directo.
+* En Java Swing, un layout es asociado con un JPanel y en JavaFX, los layouts son subclases de la clase Node.
+* Swing carece de soporte para dispositivos modernos con interfaces touch, por el contrario JavaFX tiene soporte incorporado para gestos comunes en interfaces touch.
+* JavaFX no tiene un equivalente a JOptionPane como en Swing, el cual es útil para mostrar mensjes de alerta u obtener respuesta del usuario..
+ 
 ****
 ### Calculadora cientifica en JavaFX
 A continuacion se presenta el proceso del desarrollo de la calculadora cientifica con JavaFX
