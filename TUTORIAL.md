@@ -91,3 +91,7 @@ public class Calculadora extends Application {
 Si compilamos y ejecutamos la aplicacion, el resultado seria algo asi.
 
 ![](.TUTORIAL_images/resul.png)
+
+[Seguimiento](https://javiergarciaescobedo.es/programacion-en-java/96-javafx/399-primeros-pasos-con-javafx-scene-builder-y-netbeans)
+
+[Seguimiento 2](https://www.oracle.com/technetwork/es/articles/java/fxmlloader-parte-2-4416148-esa.html)
